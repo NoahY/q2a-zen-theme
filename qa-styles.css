@@ -101,7 +101,7 @@ h2 {
 .qa-sidepanel {
     float: right;
     margin-right: 18px;
-    width: 176px;
+    width: 232px;
 }
 * html .qa-sidepanel {
     margin-right: 10px;
@@ -126,7 +126,7 @@ h2 {
     margin-bottom: 2em;
     overflow: hidden;
     padding-left: 20px;
-    width: 750px;
+    width: 710px;
 }
 .qa-main-hidden h1 {
 }
@@ -167,7 +167,7 @@ h2 {
 }
 .qa-widget-side {
     margin: 16px 0;
-    width: 176px;
+    width: 232px;
 }
 .qa-logo {
     background: url("brush.png") no-repeat scroll left bottom transparent;
